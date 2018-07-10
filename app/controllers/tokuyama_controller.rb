@@ -1,0 +1,2 @@
+class TokuyamaController < ApplicationController
+end
