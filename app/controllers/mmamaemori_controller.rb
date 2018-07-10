@@ -1,0 +1,2 @@
+class MmamaemoriController < ApplicationController
+end
